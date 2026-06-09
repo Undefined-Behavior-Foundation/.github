@@ -4,11 +4,7 @@ This is a community focused on exploring how to build things in a world where we
 
 ## What we Do
 
-Inspiring the mastery of pragmatic craftsmanship to every engineer through delivery excellence.
-
-If you have a keyboard you are an engineer.
-
-Our [manifesto](https://github.com/Undefined-Behavior-Foundation/.github/wiki/Manifesto) describes our intention. Join us if it resonates with you.
+Inspiring the mastery of pragmatic craftsmanship to every engineer through delivery excellence. If you have a keyboard you are an engineer. Our [manifesto](https://github.com/Undefined-Behavior-Foundation/.github/wiki/Manifesto) describes our intention. Join us if it resonates with you.
 
 ## How you can Participate
 
