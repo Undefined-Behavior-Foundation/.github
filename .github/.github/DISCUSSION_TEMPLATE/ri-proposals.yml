@@ -1,0 +1,28 @@
+title: "[RI Proposal]: "
+labels: ["ri-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing a new Reference Implementation! Please fill out the sections below to align with our Foundation Manifesto.
+  - type: textarea
+    id: pattern-description
+    attributes:
+      label: Architectural Pattern
+      description: Describe the pattern beharvior or capbilty that will be delivered
+    validations:
+      required: true
+  - type: textarea
+    id: learning-opportunity
+    attributes:
+      label: Learning Opportunity
+      description: How will this RI make engineers great?
+    validations:
+      required: true
+  - type: textarea
+    id: value-add
+    attributes:
+      label: Value Add
+      description: What will be made better by adding this software?
+    validations:
+      required: true
