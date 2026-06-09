@@ -1,3 +1,3 @@
 # .github
 
-organization-wide repo for github
+organization-wide repo for Undefined Behavior Foundation github org
