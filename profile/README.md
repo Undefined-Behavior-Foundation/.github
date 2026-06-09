@@ -8,4 +8,6 @@ If you have a keyboard you are an engineer.
 
 Our [manifesto](https://github.com/Undefined-Behavior-Foundation/.github/wiki/Manifesto) describes our intention. Join us if it resonates with you.
 
-Propose a new ri in our [discussions](https://github.com/orgs/Undefined-Behavior-Foundation/discussions/categories/ri-proposals)
+Propose a new [reference implementation](https://github.com/Undefined-Behavior-Foundation/.github/wiki/Reference-Implementations) in our [discussions](https://github.com/orgs/Undefined-Behavior-Foundation/discussions/categories/ri-proposals)
+
+Contribute to an existing [project](https://github.com/orgs/Undefined-Behavior-Foundation/projects)
