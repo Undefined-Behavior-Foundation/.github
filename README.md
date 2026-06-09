@@ -1,3 +1,3 @@
 # .github
 
-organization-wide central ethics, principles and code-quality toolset
+organization-wide repo for github
